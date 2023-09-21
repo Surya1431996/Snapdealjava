@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="1,565.884" tests="23" skipped="0" failures="0" errors="0">
+<testcase classname="Item Checkout Functionality" name="Registration_with_all_fields" time="127.157">
+<system-out><![CDATA[
+Given i navigated to home page..............................................passed
+When i enter to valid product...............................................passed
+When i enter search button..................................................passed
+When i enter to titlethree..................................................passed
+When i enter to search item.................................................passed
+When i enter to titlefour...................................................passed
+When i enter to item........................................................passed
+When i enter buynow.........................................................passed
+When i entet title five.....................................................passed
+When i enter to google loginone.............................................passed
+When i eneter mail "ast984904@gmail.com" field..............................passed
+When i enter to next........................................................passed
+When i enter to  "surya@123" password.......................................passed
+When i enter to pass next button............................................passed
+When i enter pin............................................................passed
+When i enter name...........................................................passed
+When i enter address........................................................passed
+When i enetr locality.......................................................passed
+When i enter mob............................................................passed
+When i enter radiobtn.......................................................passed
+When i enter defaultaddresss................................................passed
+When i enter savecont.......................................................passed
+When i enter paymbtn........................................................passed
+When i enter dacod..........................................................passed
+When i enter plc order......................................................passed
+Then it to enter cod title..................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Item Checkout Functionality" name="Registration_with_all_field_dd" time="155.661">
+<system-out><![CDATA[
+Given i navigated to home page..............................................passed
+When i navigated to siginpag................................................passed
+When i navigated to register pageone........................................passed
+When i eneter to frametwo field.............................................passed
+When i enter to google login................................................passed
+When i eneter mailone "ast984904@gmail.com" field...........................passed
+When i enter to next........................................................passed
+When i enter to  "surya@123" password.......................................passed
+When i enter to pass next button............................................passed
+When i enter to valid productone............................................passed
+When i enter search button..................................................passed
+When i enter to titlethree..................................................passed
+When i enter to search item.................................................passed
+When i enter to titlefour...................................................passed
+When i enter to item........................................................passed
+When i enter buynow.........................................................passed
+When i entet title five.....................................................passed
+When i enter pinone.........................................................passed
+When i enter name...........................................................passed
+When i enter address........................................................passed
+When i enetr locality.......................................................passed
+When i enter mob............................................................passed
+When i enter radiobtn.......................................................passed
+When i enter defaultaddresss................................................passed
+When i enter savecont.......................................................passed
+When i enter paybtn.........................................................passed
+When i enetr debit card.....................................................passed
+When i enter dc no..........................................................passed
+When i enter mon............................................................passed
+When i enter year...........................................................passed
+When i enter cvv............................................................passed
+Then it will enter to payment page..........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Item Checkout Functionality" name="Registration_with_all_fields_nb" time="148.972">
+<system-out><![CDATA[
+Given i navigated to home page..............................................passed
+When i navigated to siginpag................................................passed
+When i navigated to register pageone........................................passed
+When i eneter to frametwo field.............................................passed
+When i enter to google login................................................passed
+When i eneter mailone "ast984904@gmail.com" field...........................passed
+When i enter to next........................................................passed
+When i enter to  "surya@123" password.......................................passed
+When i enter to pass next button............................................passed
+When i enter to valid productone............................................passed
+When i enter search button..................................................passed
+When i enter to titlethree..................................................passed
+When i enter to search item.................................................passed
+When i enter to titlefour...................................................passed
+When i enter to item........................................................passed
+When i enter buynow.........................................................passed
+When i entet title five.....................................................passed
+When i enter pinone.........................................................passed
+When i enter name...........................................................passed
+When i enter address........................................................passed
+When i enetr locality.......................................................passed
+When i enetr number.........................................................passed
+When i enter mob............................................................passed
+When i enter radiobtn.......................................................passed
+When i enter defaultaddresss................................................passed
+When i enter savecont.......................................................passed
+When i enter paybtn.........................................................passed
+When i enetr net baanking...................................................passed
+When i enter otb............................................................passed
+When i enter dascpa.........................................................passed
+When i enter bank...........................................................passed
+Then it will enter to bank page.............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login Functionality" name="Login_with_all_ registered fields" time="59.122">
+<system-out><![CDATA[
+Given i navigated to siginpage..............................................passed
+When i navigate to register page............................................passed
+When i eneter to frame field................................................passed
+When i enter mobile "9560432706" field......................................passed
+When i enter to continue button.............................................passed
+When i enter to otp button..................................................passed
+Then i enter to validationonepage...........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login Functionality" name="Login_with_all_ not registered mail fields" time="33.42">
+<system-out><![CDATA[
+Given i navigated to siginpage..............................................passed
+When i navigate to register page............................................passed
+When i eneter to frame field................................................passed
+When i enter mobile "asshahi1991@gmail.com" fieldone........................passed
+When i enter to continueone button..........................................passed
+Then i enter to validationtwopage...........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login Functionality" name="Login_with_all_ not valid mail fields" time="32.741">
+<system-out><![CDATA[
+Given i navigated to siginpage..............................................passed
+When i navigate to register page............................................passed
+When i eneter to frame field................................................passed
+When i enter mobile "ast.com" fieldtwo......................................passed
+When i enter to continueone button..........................................passed
+Then i enter to validationthreepage.........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login Functionality" name="Login_with_all_ empty fields" time="32.609">
+<system-out><![CDATA[
+Given i navigated to siginpage..............................................passed
+When i navigate to register page............................................passed
+When i eneter to frame field................................................passed
+When i enter mobile " " fieldthree..........................................passed
+When i enter to continueone button..........................................passed
+Then i enter to validationfourpage..........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login Functionality" name="Login_with_un registered gmail fields" time="56.963">
+<system-out><![CDATA[
+Given i navigated to siginpage..............................................passed
+When i navigate to register page............................................passed
+When i eneter to frame field................................................passed
+When i enter to google field................................................passed
+When i enter to email "ast9849098490@gmail.com" field.......................passed
+When i eneter to next.......................................................passed
+When i enter to password "surya@123" field..................................passed
+When i enter to pass next...................................................passed
+Then i enter to validation five page........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login Functionality" name="Login_with_registered gmail fields" time="56.089">
+<system-out><![CDATA[
+Given i navigated to siginpage..............................................passed
+When i navigate to register page............................................passed
+When i eneter to frame field................................................passed
+When i enter to google field................................................passed
+When i enter to email "ast984904@gmail.com" fieldone........................passed
+When i eneter to next.......................................................passed
+When i enter to password "surya@123" field..................................passed
+When i enter to pass next...................................................passed
+Then i enter to validation six page.........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Register Functionality" name="Registration_with_all_fields" time="68.085">
+<system-out><![CDATA[
+Given i navigate to siginpage...............................................passed
+When i navigated to register page...........................................passed
+When i eneter to frameone field.............................................passed
+When i enter mobileno "teja05863@gmail.com" field...........................passed
+When i eneter to continue button............................................passed
+When i enters email "9560432707" field......................................passed
+When i enetrs name "surya" field............................................passed
+When i enters dob field.....................................................passed
+When i enters password "Surya@123" field....................................passed
+When i enters pass continue field...........................................passed
+Then i eneters to validation  page..........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Register Functionality" name="Registration with invalid email" time="43.701">
+<system-out><![CDATA[
+Given i navigate to siginpage...............................................passed
+When i navigated to register page...........................................passed
+When i eneter to frameone field.............................................passed
+When i enter mobileno "teja05863@gmail" field...............................passed
+When i eneter to continue button............................................passed
+Then it shows  validationone page...........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Register Functionality" name="Registration with registered email" time="41.285">
+<system-out><![CDATA[
+Given i navigate to siginpage...............................................passed
+When i navigated to register page...........................................passed
+When i eneter to frameone field.............................................passed
+When i enter mobileno "ast98490@gmail.com" field............................passed
+When i eneter to continue button............................................passed
+Then it show  validationtwo page............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Register Functionality" name="Registration with invalid mobile no" time="65.229">
+<system-out><![CDATA[
+Given i navigate to siginpage...............................................passed
+When i navigated to register page...........................................passed
+When i eneter to frameone field.............................................passed
+When i enter mobileno "teju89011@gmail.com" field...........................passed
+When i eneter to continue button............................................passed
+When i enters email "956043270" field.......................................passed
+When i enetrs name "surya" field............................................passed
+When i enters dob field.....................................................passed
+When i enters password "Surya@123" field....................................passed
+When i enters pass continue field...........................................passed
+Then i eneters to validationThree page......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Register Functionality" name="Registration with registered mobile no" time="67.841">
+<system-out><![CDATA[
+Given i navigate to siginpage...............................................passed
+When i navigated to register page...........................................passed
+When i eneter to frameone field.............................................passed
+When i enter mobileno "teju89011@gmail.com" field...........................passed
+When i eneter to continue button............................................passed
+When i enters email "9560432706" field......................................passed
+When i enetrs name "surya" field............................................passed
+When i enters dob field.....................................................passed
+When i enters password "Surya@123" field....................................passed
+When i enters pass continue field...........................................passed
+Then i eneters to validationfour  page......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Register Functionality" name="Registration with invalid name" time="65.943">
+<system-out><![CDATA[
+Given i navigate to siginpage...............................................passed
+When i navigated to register page...........................................passed
+When i eneter to frameone field.............................................passed
+When i enter mobileno "teju89011@gmail.com" field...........................passed
+When i eneter to continue button............................................passed
+When i enters email "9560432706" field......................................passed
+When i enetrs name "s" field................................................passed
+When i enters dob field.....................................................passed
+When i enters password "Surya@123" field....................................passed
+When i enters pass continue field...........................................passed
+Then i eneters to validationfive  page......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Register Functionality" name="Registration with invalid password" time="64.716">
+<system-out><![CDATA[
+Given i navigate to siginpage...............................................passed
+When i navigated to register page...........................................passed
+When i eneter to frameone field.............................................passed
+When i enter mobileno "teju89011@gmail.com" field...........................passed
+When i eneter to continue button............................................passed
+When i enters email "9560432706" field......................................passed
+When i enetrs name "surya" field............................................passed
+When i enters dob field.....................................................passed
+When i enters password "Sur" field..........................................passed
+When i enters pass continue field...........................................passed
+Then i eneters to validationsix  page.......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Register Functionality" name="Registration with valid no invalid name and password" time="63.547">
+<system-out><![CDATA[
+Given i navigate to siginpage...............................................passed
+When i navigated to register page...........................................passed
+When i eneter to frameone field.............................................passed
+When i enter mobileno "teju89011@gmail.com" field...........................passed
+When i eneter to continue button............................................passed
+When i enters email "9560432706" field......................................passed
+When i enetrs name "" field.................................................passed
+When i enters dob field.....................................................passed
+When i enters password "" field.............................................passed
+When i enters pass continue field...........................................passed
+Then i eneters to validationseven  page.....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Register Functionality" name="Registration with valid name invalid no and password" time="63.686">
+<system-out><![CDATA[
+Given i navigate to siginpage...............................................passed
+When i navigated to register page...........................................passed
+When i eneter to frameone field.............................................passed
+When i enter mobileno "teju89011@gmail.com" field...........................passed
+When i eneter to continue button............................................passed
+When i enters email "" field................................................passed
+When i enetrs name "surya " field...........................................passed
+When i enters dob field.....................................................passed
+When i enters password "" field.............................................passed
+When i enters pass continue field...........................................passed
+Then i eneters to validationeight  page.....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Register Functionality" name="Registration with valid pass invalid no and name" time="64.179">
+<system-out><![CDATA[
+Given i navigate to siginpage...............................................passed
+When i navigated to register page...........................................passed
+When i eneter to frameone field.............................................passed
+When i enter mobileno "teju89011@gmail.com" field...........................passed
+When i eneter to continue button............................................passed
+When i enters email "" field................................................passed
+When i enetrs name "" field.................................................passed
+When i enters dob field.....................................................passed
+When i enters password "Surya@123 " field...................................passed
+When i enters pass continue field...........................................passed
+Then i eneters to validationnine  page......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Register Functionality" name="Registration with valid mob invalid pass and valid name" time="62.66">
+<system-out><![CDATA[
+Given i navigate to siginpage...............................................passed
+When i navigated to register page...........................................passed
+When i eneter to frameone field.............................................passed
+When i enter mobileno "teju89011@gmail.com" field...........................passed
+When i eneter to continue button............................................passed
+When i enters email "9560432706" field......................................passed
+When i enetrs name "surya" field............................................passed
+When i enters dob field.....................................................passed
+When i enters password "" field.............................................passed
+When i enters pass continue field...........................................passed
+Then i eneters to validationten  page.......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Register Functionality" name="Registration with valid mob invalid name and valid pass" time="64.554">
+<system-out><![CDATA[
+Given i navigate to siginpage...............................................passed
+When i navigated to register page...........................................passed
+When i eneter to frameone field.............................................passed
+When i enter mobileno "teju89011@gmail.com" field...........................passed
+When i eneter to continue button............................................passed
+When i enters email "9560432706" field......................................passed
+When i enetrs name "" field.................................................passed
+When i enters dob field.....................................................passed
+When i enters password "Surya@123" field....................................passed
+When i enters pass continue field...........................................passed
+Then i eneters to validationeleven  page....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Register Functionality" name="Registration with valid nam invalid no and valid pass" time="63.81">
+<system-out><![CDATA[
+Given i navigate to siginpage...............................................passed
+When i navigated to register page...........................................passed
+When i eneter to frameone field.............................................passed
+When i enter mobileno "teju89011@gmail.com" field...........................passed
+When i eneter to continue button............................................passed
+When i enters email "" field................................................passed
+When i enetrs name "surya" field............................................passed
+When i enters dob field.....................................................passed
+When i enters password "Surya@123" field....................................passed
+When i enters pass continue field...........................................passed
+Then i eneters to validationtweleve  page...................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Register Functionality" name="Registration with empty fields" time="62.837">
+<system-out><![CDATA[
+Given i navigate to siginpage...............................................passed
+When i navigated to register page...........................................passed
+When i eneter to frameone field.............................................passed
+When i enter mobileno "teju89011@gmail.com" field...........................passed
+When i eneter to continue button............................................passed
+When i enters email "" field................................................passed
+When i enetrs name "" field.................................................passed
+When i enters dob field.....................................................passed
+When i enters password "" field.............................................passed
+When i enters pass continue field...........................................passed
+Then i enetesr to validationthirteen  page..................................passed
+]]></system-out>
+</testcase>
+</testsuite>
