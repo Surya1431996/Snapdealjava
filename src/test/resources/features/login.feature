@@ -37,7 +37,7 @@ Feature: Login Functionality
     When i navigate to register page
     When i eneter to frame field
     When i enter to google field
-    When i enter to email "ast9849098490@gmail.com" field
+    When i enter to email "ast98490984901@gmail.com" field
     When i eneter to next
     When i enter to password "surya@123" field
     When i enter to pass next
